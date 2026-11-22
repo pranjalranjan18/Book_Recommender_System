@@ -87,3 +87,12 @@ When deploying this project to **Streamlit Community Cloud** (share.streamlit.io
    ```bash
    streamlit run app.py
    ```
+
+---
+
+### 👤 Author & Contact
+- **Project Owner:** Pranjal Ranjan
+- **Email:** [ranjanpranjal04@gmail.com](mailto:ranjanpranjal04@gmail.com)
+- **Phone:** +91 8825163201
+- **GitHub:** [@pranjalranjan18](https://github.com/pranjalranjan18)
+

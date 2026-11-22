@@ -180,7 +180,7 @@ with st.sidebar:
         """
     )
     st.markdown("---")
-    st.caption("Developed with ❤️ using Streamlit")
+    st.caption("Developed with ❤️ by Pranjal Ranjan")
 
 # ----------------- Page 1: Top 50 Books -----------------
 if selected_page == "🏠 Top 50 Popular Books":
@@ -281,8 +281,9 @@ elif selected_page == "📞 Contact":
         st.markdown("""
             <div style="background-color: #1e293b; border: 1px solid #334155; border-radius: 10px; padding: 20px; color: #f8fafc;">
                 <h4 style="color: #38bdf8; margin-top: 0;">📫 Contact Details</h4>
-                <p><b>📧 Email:</b> <a href="mailto:gufrankhankab123@gmail.com" style="color: #38bdf8;">gufrankhankab123@gmail.com</a></p>
-                <p><b>📱 Phone:</b> +91 8210783123</p>
+                <p><b>👤 Owner:</b> Pranjal Ranjan</p>
+                <p><b>📧 Email:</b> <a href="mailto:ranjanpranjal04@gmail.com" style="color: #38bdf8;">ranjanpranjal04@gmail.com</a></p>
+                <p><b>📱 Phone:</b> +91 8825163201</p>
                 <p><b>💻 GitHub:</b> <a href="https://github.com/pranjalranjan18/Book_Recommender_System" target="_blank" style="color: #38bdf8;">github.com/pranjalranjan18/Book_Recommender_System</a></p>
             </div>
         """, unsafe_allow_html=True)
